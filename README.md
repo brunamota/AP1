@@ -5,6 +5,7 @@
 
 # Roteiro
 
-![PngItem_3636269](https://github.com/brunamota/AP1/assets/66503956/1b97e8a1-bc53-4e3d-9c3b-6c68153946e3) [Plano de Ensino AP1 - 01/2024](https://github.com/brunamota/AP1/files/14948809/Plano.de.Ensino.AP1.-.01.2024.pdf)
-![PngItem_3636269](https://github.com/brunamota/AP1/assets/66503956/1b97e8a1-bc53-4e3d-9c3b-6c68153946e3) Plano de Ensino
+
+![icon1](https://github.com/brunamota/AP1/assets/66503956/7de06d90-88b4-4843-b38a-321f0d05819a) [Plano de Ensino AP1 - 01/2024](https://github.com/brunamota/AP1/files/14948809/Plano.de.Ensino.AP1.-.01.2024.pdf)
+![icon1](https://github.com/brunamota/AP1/assets/66503956/7de06d90-88b4-4843-b38a-321f0d05819a) Roteiro de Aulas
 
