@@ -1,6 +1,6 @@
 ![cabecalhoGitLista](https://github.com/brunamota/AP1/assets/66503956/a522ecda-153c-49fa-aef0-d9256e2343f6)
 
-#### Lista 1 - Kahoot - Introdução dos conceitos de algoritmos e programação de computadores
+#### [Lista 1 - Kahoot - Introdução dos conceitos de algoritmos e programação de computadores](https://kahoot.it/)
 #### Lista 2 - Estruturação de algoritmos
 #### Lista 3 - Dados primitivos, atribuição, variáveis, constantes, entrada/saída de dados
 #### Lista 4 - Estrutura Sequencial/boas práticas de programação
