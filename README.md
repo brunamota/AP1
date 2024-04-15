@@ -8,9 +8,17 @@
 #### Prova 1 - 13/05/2024
 #### Prova 2 - 08/07/2024
 
+## Monitoria
+
+Toda Quinta - 15h30 às 17h10 - Sala a definir
+
+#### Prova 1 - 13/05/2024
+#### Prova 2 - 08/07/2024
+
 ## Sololearn
 
 Introdução a C - https://www.sololearn.com/pt/learn/courses/c-introduction
+
 Fundamentos de Códigos - https://www.sololearn.com/pt/learn/courses/coding-foundations
 
 ## Documentos da Disciplina
