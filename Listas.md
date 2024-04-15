@@ -1,13 +1,13 @@
 ![cabecalhoGitLista](https://github.com/brunamota/AP1/assets/66503956/a522ecda-153c-49fa-aef0-d9256e2343f6)
 
-#### [Lista 1 - Kahoot - Introdução dos conceitos de algoritmos e programação de computadores](https://kahoot.it/)
-#### Lista 2 - Estruturação de algoritmos
-#### Lista 3 - Dados primitivos, atribuição, variáveis, constantes, entrada/saída de dados
-#### Lista 4 - Estrutura Sequencial/boas práticas de programação
-#### Lista 5 - Operadores lógicos e Expressões lógicas
-#### Lista 6 - Estrutura condicional simples e compostas
-#### Lista 7 - While, Do-While e For
-#### Lista 8 - Variáveis Compostas Unidimensionais (Vetores)
-#### Lista 9 - Strings x Vetores de caracteres
-#### Lista 10 - Variáveis Compostas Unidimensionais (Matrizes).
+![iconGitAmarelo](https://github.com/brunamota/AP1/assets/66503956/00a0f0f5-1867-4eeb-a284-aea532c9591b) [Lista 1 - Kahoot - Introdução dos conceitos de algoritmos e programação de computadores](https://kahoot.it/)
+![iconGitAmarelo](https://github.com/brunamota/AP1/assets/66503956/00a0f0f5-1867-4eeb-a284-aea532c9591b) Lista 2 - Estruturação de algoritmos
+![iconGitAmarelo](https://github.com/brunamota/AP1/assets/66503956/00a0f0f5-1867-4eeb-a284-aea532c9591b) Lista 3 - Dados primitivos, atribuição, variáveis, constantes, entrada/saída de dados
+![iconGitAmarelo](https://github.com/brunamota/AP1/assets/66503956/00a0f0f5-1867-4eeb-a284-aea532c9591b) Lista 4 - Estrutura Sequencial/boas práticas de programação
+![iconGitAmarelo](https://github.com/brunamota/AP1/assets/66503956/00a0f0f5-1867-4eeb-a284-aea532c9591b) Lista 5 - Operadores lógicos e Expressões lógicas
+![iconGitAmarelo](https://github.com/brunamota/AP1/assets/66503956/00a0f0f5-1867-4eeb-a284-aea532c9591b) Lista 6 - Estrutura condicional simples e compostas
+![iconGitAmarelo](https://github.com/brunamota/AP1/assets/66503956/00a0f0f5-1867-4eeb-a284-aea532c9591b) Lista 7 - While, Do-While e For
+![iconGitAmarelo](https://github.com/brunamota/AP1/assets/66503956/00a0f0f5-1867-4eeb-a284-aea532c9591b) Lista 8 - Variáveis Compostas Unidimensionais (Vetores)
+![iconGitAmarelo](https://github.com/brunamota/AP1/assets/66503956/00a0f0f5-1867-4eeb-a284-aea532c9591b) Lista 9 - Strings x Vetores de caracteres
+![iconGitAmarelo](https://github.com/brunamota/AP1/assets/66503956/00a0f0f5-1867-4eeb-a284-aea532c9591b) Lista 10 - Variáveis Compostas Unidimensionais (Matrizes).
 
