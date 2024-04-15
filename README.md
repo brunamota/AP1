@@ -3,6 +3,14 @@
 #### Ciência da Computação - ICET/UFJ
 #### Docente: Bruna Mota Barbosa
 
+## Horário das Aulas
+
+Teórica - Segunda - 9h30 às 11h10 - Sala 01 CA1
+
+Prática A01 - Segunda - 7h30 às 9h10 - LEC 01
+
+Prática A02 - Segunda - 15h30 às 17h10 - LEC 01
+
 ## Datas Importantes
 
 Prova 1 - 13/05/2024
