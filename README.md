@@ -21,6 +21,10 @@ Prova 2 - 08/07/2024
 
 Toda Quinta - 15h30 às 17h10 - Sala a definir
 
+## IDE utilizada na disciplina
+
+https://www.codeblocks.org/downloads/
+
 ## Sololearn
 
 Introdução a C - https://www.sololearn.com/pt/learn/courses/c-introduction
