@@ -21,7 +21,7 @@ Prova 2 - 08/07/2024
 
 Toda Quinta - 15h30 às 17h10 - Sala a definir
 
-## Ferramentas utilizada na disciplina
+## Ferramenta utilizada na disciplina
 
 https://www.codeblocks.org/downloads/
 
