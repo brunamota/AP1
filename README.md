@@ -13,9 +13,9 @@ Prática A02 - Segunda - 15h30 às 17h10 - LEC 01
 
 ## Datas Importantes
 
-Prova 1 - 13/05/2024
+![icon1](https://github.com/brunamota/AP1/assets/66503956/a7527360-5f2a-4363-9db8-c9638f74d7b0) Prova 1 - 13/05/2024
 
-Prova 2 - 08/07/2024
+![icon1](https://github.com/brunamota/AP1/assets/66503956/a7527360-5f2a-4363-9db8-c9638f74d7b0) Prova 2 - 08/07/2024
 
 ## Monitoria
 
@@ -23,13 +23,13 @@ Toda Quinta - 15h30 às 17h10 - Sala a definir
 
 ## Ferramenta utilizada na disciplina
 
-https://www.codeblocks.org/downloads/
+![icon1](https://github.com/brunamota/AP1/assets/66503956/a7527360-5f2a-4363-9db8-c9638f74d7b0) https://www.codeblocks.org/downloads/
 
 ## Sololearn
 
-Introdução a C - https://www.sololearn.com/pt/learn/courses/c-introduction
+![icon1](https://github.com/brunamota/AP1/assets/66503956/a7527360-5f2a-4363-9db8-c9638f74d7b0) Introdução a C - https://www.sololearn.com/pt/learn/courses/c-introduction
 
-Fundamentos de Códigos - https://www.sololearn.com/pt/learn/courses/coding-foundations
+![icon1](https://github.com/brunamota/AP1/assets/66503956/a7527360-5f2a-4363-9db8-c9638f74d7b0) Fundamentos de Códigos - https://www.sololearn.com/pt/learn/courses/coding-foundations
 
 ## Documentos da Disciplina
 
