@@ -11,15 +11,17 @@ Prática A01 - Segunda - 7h30 às 9h10 - LEC 01
 
 Prática A02 - Segunda - 15h30 às 17h10 - LEC 01
 
+## Monitoria
+
+Toda Quinta - 15h30 às 17h10 - Sala a definir
+
+Toda Sexta - 9h00 às 11h - Sala a definir
+
 ## Datas Importantes
 
 ![icon1](https://github.com/brunamota/AP1/assets/66503956/a7527360-5f2a-4363-9db8-c9638f74d7b0) Prova 1 - 13/05/2024
 
 ![icon1](https://github.com/brunamota/AP1/assets/66503956/a7527360-5f2a-4363-9db8-c9638f74d7b0) Prova 2 - 08/07/2024
-
-## Monitoria
-
-Toda Quinta - 15h30 às 17h10 - Sala a definir
 
 ## Ferramenta utilizada na disciplina
 
