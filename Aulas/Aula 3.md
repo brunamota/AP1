@@ -13,7 +13,7 @@ A declaração de variável tem o propósito de reservar espaço na memória par
     int numeroInteiro;
     //armazena números com ponto flutuante (reais) com precisão simples.
     float numeroFlutuante;
-    //armazena números com ponto flutuante, com precisão dupla, ou seja normalmente possui o dobro da capacidade de uma variável do tipo float.
+    //armazena números com ponto flutuante, possui o dobro da capacidade de uma variável do tipo float.
     double numeroFlutuanteMaior;
     //armazena caracteres.
     char caractere;
