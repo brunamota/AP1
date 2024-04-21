@@ -9,6 +9,13 @@ A declaração de variável tem o propósito de reservar espaço na memória par
 
 #### Declaração de Variáreis em C:
 ``` C
+   //bibliotecas
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    //Declaração de Variáveis
     //armazena valores numéricos inteiros
     int numeroInteiro;
     //armazena números com ponto flutuante (reais) com precisão simples.
@@ -17,23 +24,39 @@ A declaração de variável tem o propósito de reservar espaço na memória par
     double numeroFlutuanteMaior;
     //armazena caracteres.
     char caractere;
-```
-#### Entrada de dados em C:
-``` C
+
+    //Atribuição de valores
+
+    //Entrada de dados
+
     printf("\nEscreva um numero inteiro: ");
     scanf("%i", &numeroInteiro);
-    printf("\nEscreva um numero inteiro: ");
+    printf("\nEscreva um numero decimal: ");
     scanf("%f", &numeroFlutuante);
-    printf("\nEscreva um numero inteiro: ");
+    printf("\nEscreva um numero decimal grande: ");
     scanf("%f", &numeroFlutuanteMaior);
-    printf("\nEscreva um numero inteiro: ");
+    printf("\nEscreva um numero caractere: ");
+    setbuf(stdin, NULL); //limpar memória
     scanf("%c", &caractere);
-```
 
-#### Saída de dados em C:
-``` C
+
+    //Saída de Dados
     printf("\nNumero inteiro: %d", numeroInteiro);
-    printf("\nNumero inteiro: %f", numeroFlutuant);
-    printf("\nNumero inteiro: %f", numeroInteiroMaior);
-    printf("\nNumero inteiro: %c", caractere);
+    printf("\nNumero decimal: %f", numeroFlutuante);
+    printf("\nNumero decimal grande: %f", numeroFlutuanteMaior);
+    printf("\nCaractere: %c", caractere);
+
+    //Atribuição de valores
+    numeroInteiro = 4;
+    numeroFlutuante = 2.0;
+    numeroFlutuanteMaior = 200000.36;
+    caractere = 'b';
+
+    //Saída de Dados
+     printf("\n\nNumero inteiro: %d", numeroInteiro);
+    printf("\nNumero decimal: %f", numeroFlutuante);
+    printf("\nNumero decimal grande: %f", numeroFlutuanteMaior);
+    printf("\nCaractere: %c", caractere);
+
+}
 ```
