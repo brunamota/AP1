@@ -9,7 +9,7 @@ A declaração de variável tem o propósito de reservar espaço na memória par
 
 #### Declaração de Variáreis em C:
 ``` C
-   //bibliotecas
+//bibliotecas
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -53,7 +53,7 @@ int main()
     caractere = 'b';
 
     //Saída de Dados
-     printf("\n\nNumero inteiro: %d", numeroInteiro);
+    printf("\n\nNumero inteiro: %d", numeroInteiro);
     printf("\nNumero decimal: %f", numeroFlutuante);
     printf("\nNumero decimal grande: %f", numeroFlutuanteMaior);
     printf("\nCaractere: %c", caractere);
