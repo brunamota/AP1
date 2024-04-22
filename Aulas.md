@@ -5,9 +5,9 @@
 
 ![iconGitAzul](https://github.com/brunamota/AP1/assets/66503956/99201d27-f0a8-4754-947d-062f3a5479af) [Aula 2 - Estruturação de algoritmos](https://github.com/brunamota/AP1/files/15055577/Aula.2.-.Estruturacao.de.algoritmos.pdf)
 
-![iconGitAzul](https://github.com/brunamota/AP1/assets/66503956/99201d27-f0a8-4754-947d-062f3a5479af) [Aula 3 - Dados primitivos, atribuição, variáveis simples, constantes, entrada/saída de dados](https://github.com/brunamota/AP1/blob/main/Aulas/Aula%203.md)
+![iconGitAzul](https://github.com/brunamota/AP1/assets/66503956/99201d27-f0a8-4754-947d-062f3a5479af) [Aula 3 - Dados primitivos, atribuição, variáveis simples, constantes, entrada/saída de dados](https://github.com/brunamota/AP1/blob/main/Aulas/Aula03.md)
 
-![iconGitAzul](https://github.com/brunamota/AP1/assets/66503956/99201d27-f0a8-4754-947d-062f3a5479af) Aula 4 - Estrutura Sequencial
+![iconGitAzul](https://github.com/brunamota/AP1/assets/66503956/99201d27-f0a8-4754-947d-062f3a5479af) [Aula 4 - Estrutura Sequencial](https://github.com/brunamota/AP1/blob/main/Aulas/Aula04.md)
 
 ![iconGitAzul](https://github.com/brunamota/AP1/assets/66503956/99201d27-f0a8-4754-947d-062f3a5479af) Aula 5 - Boas práticas de programação
 
