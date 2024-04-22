@@ -6,7 +6,7 @@ Os operadores lógicos são utilizados para combinar ou negar expressões lógic
 - E lógico (&&): Retorna verdadeiro se ambas as expressões forem verdadeiras.
 
 | A | && | B |
-| ------------- | ------------- | ------------- |
+|   :---:  |   :---:  |   :---:  |
 | V | V | V |
 | V | F | F |
 | F | F | V |
