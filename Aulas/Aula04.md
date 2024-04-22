@@ -27,6 +27,7 @@ Vamos criar um programa simples que solicita ao usuário dois números e exibe a
 ### Exemplo de Código em C:
 ``` C
 #include <stdio.h>
+#include <stdlib.h>
 
 int main() {
     int num1, num2, soma;
