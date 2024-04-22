@@ -12,21 +12,21 @@ Os dados primitivos são os tipos básicos de dados disponíveis em uma linguage
 A atribuição é o processo de armazenar um valor em uma variável. Uma variável é um local na memória que pode armazenar dados. Em C, a atribuição é feita usando o operador de atribuição "=", que atribui o valor à direita para a variável à esquerda.
 Exemplo:
 ``` C
-int idade = 25; atribui o valor 25 à variável idade.
+int idade = 25; //atribui o valor 25 à variável idade.
 ```
 #### Variáveis Simples:
 
 Uma variável é um nome dado a um local na memória onde podemos armazenar dados. Antes de usar uma variável, é necessário declará-la informando seu tipo e nome.
 Exemplo:
 ``` C
-int quantidade; declara uma variável chamada quantidade do tipo int.
+int quantidade; //declara uma variável chamada quantidade do tipo int.
 ```
 #### Constantes:
 
 Uma constante é um valor fixo que não pode ser alterado durante a execução do programa. Em C, as constantes são declaradas usando a palavra-chave "const" antes do tipo da constante.
 Exemplo:
 ``` C
-const float PI = 3.14; declara uma constante chamada PI do tipo float com valor 3.14.
+const float PI = 3.14; //declara uma constante chamada PI do tipo float com valor 3.14.
 ```
 
 #### Entrada de Dados:
@@ -34,14 +34,14 @@ const float PI = 3.14; declara uma constante chamada PI do tipo float com valor 
 Para receber dados do usuário, podemos utilizar a função "scanf" em C. A função "scanf" permite ler valores digitados pelo usuário e atribuí-los a variáveis.
 Exemplo:
 ``` C
-scanf("%d", &idade); lê um valor inteiro digitado pelo usuário e o atribui à variável idade.
+scanf("%d", &idade); //lê um valor inteiro digitado pelo usuário e o atribui à variável idade.
 ```
 #### Saída de Dados:
 
 Para exibir informações na tela, podemos utilizar a função "printf" em C. A função "printf" permite exibir mensagens formatadas e valores de variáveis na tela.
 Exemplo:
 ``` C
-printf("A idade é %d", idade); exibe a mensagem "A idade é" seguida do valor da variável idade.
+printf("A idade é %d", idade); //exibe a mensagem "A idade é" seguida do valor da variável idade.
 ```
 
 ``` C
