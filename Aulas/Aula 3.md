@@ -1,13 +1,49 @@
 # Aula 3 - Dados primitivos, atribuição, variáveis simples, constantes, entrada/saída de dados
 
-A linguagem C possui quatro tipos básicos de dados, conhecidos como tipos primitivos: int, float, char e double. Esses tipos são amplamente suportados pelo hardware da maioria dos computadores.
+#### Dados Primitivos:
+Os dados primitivos são os tipos básicos de dados disponíveis em uma linguagem de programação. Na linguagem C, os quatro tipos principais são: int, float, char e double.
+- O tipo "int" é usado para representar números inteiros, como -3, 0 e 42.
+- O tipo "float" é usado para representar números de ponto flutuante, que possuem casas decimais, como 3.14 e -0.5.
+- O tipo "char" é usado para representar caracteres individuais, como 'a', '1' e '!'.
+- O tipo "double" é usado para representar números de ponto flutuante com maior precisão do que o tipo "float".
 
-Ao declarar uma variável em C, são especificados dois elementos:
-- A quantidade de armazenamento necessária para os objetos criados com esse tipo. Por exemplo, uma variável do tipo int precisa de espaço suficiente para armazenar o maior valor inteiro possível.
-- A forma como os dados representados por sequências de bits devem ser interpretados. Os mesmos bits em uma determinada posição de armazenamento podem ser interpretados como um número inteiro ou de ponto flutuante, resultando em dois valores numéricos distintos.
-A declaração de variável tem o propósito de reservar espaço na memória para um objeto do tipo especificado e permite que esse objeto seja acessado por meio de um identificador (nome) atribuído à variável declarada.
+#### Atribuição de Valores:
 
-#### Declaração de Variáreis em C:
+A atribuição é o processo de armazenar um valor em uma variável. Uma variável é um local na memória que pode armazenar dados. Em C, a atribuição é feita usando o operador de atribuição "=", que atribui o valor à direita para a variável à esquerda.
+Exemplo:
+``` C
+int idade = 25; atribui o valor 25 à variável idade.
+```
+#### Variáveis Simples:
+
+Uma variável é um nome dado a um local na memória onde podemos armazenar dados. Antes de usar uma variável, é necessário declará-la informando seu tipo e nome.
+Exemplo:
+``` C
+int quantidade; declara uma variável chamada quantidade do tipo int.
+
+#### Constantes:
+
+Uma constante é um valor fixo que não pode ser alterado durante a execução do programa. Em C, as constantes são declaradas usando a palavra-chave "const" antes do tipo da constante.
+Exemplo:
+``` C
+const float PI = 3.14; declara uma constante chamada PI do tipo float com valor 3.14.
+```
+
+#### Entrada de Dados:
+
+Para receber dados do usuário, podemos utilizar a função "scanf" em C. A função "scanf" permite ler valores digitados pelo usuário e atribuí-los a variáveis.
+Exemplo:
+``` C
+scanf("%d", &idade); lê um valor inteiro digitado pelo usuário e o atribui à variável idade.
+```
+#### Saída de Dados:
+
+Para exibir informações na tela, podemos utilizar a função "printf" em C. A função "printf" permite exibir mensagens formatadas e valores de variáveis na tela.
+Exemplo:
+``` C
+printf("A idade é %d", idade); exibe a mensagem "A idade é" seguida do valor da variável idade.
+```
+
 ``` C
 //bibliotecas
 #include <stdio.h>
@@ -60,3 +96,5 @@ int main()
 
 }
 ```
+#### Conclusão:
+Nesta aula, aprendemos sobre dados primitivos, atribuição, variáveis simples, constantes, entrada de dados com "scanf" e saída de dados com "printf". Esses conceitos são fundamentais para manipular informações em um programa. Pratiquem esses conceitos em exercícios e projetos para fortalecer sua compreensão. Na próxima aula, exploraremos estruturas de controle de fluxo. Até lá!
