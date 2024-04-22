@@ -20,7 +20,7 @@ Uma variável é um nome dado a um local na memória onde podemos armazenar dado
 Exemplo:
 ``` C
 int quantidade; declara uma variável chamada quantidade do tipo int.
-
+```
 #### Constantes:
 
 Uma constante é um valor fixo que não pode ser alterado durante a execução do programa. Em C, as constantes são declaradas usando a palavra-chave "const" antes do tipo da constante.
