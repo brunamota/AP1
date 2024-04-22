@@ -17,11 +17,16 @@ Os operadores lógicos são utilizados para combinar ou negar expressões lógic
 | A | \| \| | B |
 |   :---:  |   :---:  |   :---:  |
 | V | V | V |
-| V | v | F |
-| F | v | V |
+| V | V | F |
+| F | V | V |
 | F | F | F |
 
 - NÃO lógico (!): Inverte o valor da expressão, se for verdadeira, torna-se falsa e vice-versa.
+
+| ! | A |
+|   :---:  |   :---:  |
+| F | V |
+| V | F |
 
 ### Expressões Lógicas:
 
