@@ -34,8 +34,10 @@ As expressões lógicas são combinações de valores e operadores lógicos que 
 - Igual a (==): Verifica se dois valores são iguais.
 - Diferente de (!=): Verifica se dois valores são diferentes.
 - Maior que (>), Maior ou igual a (>=), Menor que (<), Menor ou igual a (<=): Comparação numérica.
-- Exemplo de expressão lógica: idade > 18 && salario < 1000.
-
+- Exemplo de expressão lógica:
+``` C
+idade > 18 && salario < 1000.
+```
 ### Estrutura de Decisão:
 
 - A estrutura de decisão permite que o programa tome diferentes caminhos com base nas condições estabelecidas. Na linguagem C, a estrutura de decisão mais comum é o "if-else", que avalia uma expressão lógica e executa um bloco de código caso a condição seja verdadeira e outro bloco de código caso a condição seja falsa.
