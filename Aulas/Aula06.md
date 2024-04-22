@@ -34,7 +34,7 @@ As expressões lógicas são combinações de valores e operadores lógicos que 
 - Igual a (==): Verifica se dois valores são iguais.
 - Diferente de (!=): Verifica se dois valores são diferentes.
 - Maior que (>), Maior ou igual a (>=), Menor que (<), Menor ou igual a (<=): Comparação numérica.
-- Exemplo de expressão lógica:
+#### Exemplo de expressão lógica:
 ``` C
 idade > 18 && salario < 1000
 dia >= 18 || mês == 4
@@ -72,8 +72,9 @@ if (idade < 13) {
 ### Operador Ternário:
 
 O operador ternário é uma forma abreviada de escrever uma estrutura de decisão simples.
-- Sintaxe: expressão ? valor_verdadeiro : valor_falso
-
+``` C
+Sintaxe: expressão ? valor_verdadeiro : valor_falso
+```
 #### Exemplo:
 ``` C
 printf((idade >= 18) ? "Você é maior de idade.\n" : "Você é menor de idade.\n");
