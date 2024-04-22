@@ -44,6 +44,8 @@ Exemplo:
 printf("A idade é %d", idade); //exibe a mensagem "A idade é" seguida do valor da variável idade.
 ```
 
+#### Código desenvolvido em sala
+
 ``` C
 //bibliotecas
 #include <stdio.h>
