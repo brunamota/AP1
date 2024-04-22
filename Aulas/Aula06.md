@@ -4,6 +4,12 @@
 
 Os operadores lógicos são utilizados para combinar ou negar expressões lógicas.Na linguagem C, os principais operadores lógicos são:
 - E lógico (&&): Retorna verdadeiro se ambas as expressões forem verdadeiras.
+| A | && | B |
+| ------------- | ------------- | ------------- |
+| V | V | V |
+| V | F | F |
+| F | F | V |
+| F | F | F |
 - OU lógico (||): Retorna verdadeiro se pelo menos uma das expressões for verdadeira.
 - NÃO lógico (!): Inverte o valor da expressão, se for verdadeira, torna-se falsa e vice-versa.
 
