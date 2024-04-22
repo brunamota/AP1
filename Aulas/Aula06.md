@@ -48,7 +48,7 @@ if (idade < 13) {
 
 O operador ternário é uma forma abreviada de escrever uma estrutura de decisão simples.
 - Sintaxe: expressão ? valor_verdadeiro : valor_falso
-- 
+
 #### Exemplo:
 ``` C
 printf((idade >= 18) ? "Você é maior de idade.\n" : "Você é menor de idade.\n");
