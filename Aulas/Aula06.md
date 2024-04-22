@@ -12,7 +12,7 @@ Os operadores lógicos são utilizados para combinar ou negar expressões lógic
 | F | F | V |
 | F | F | F |
 
-- OU lógico (||): Retorna verdadeiro se pelo menos uma das expressões for verdadeira.
+- OU lógico (| |): Retorna verdadeiro se pelo menos uma das expressões for verdadeira.
 
 | A | \| \| | B |
 |   :---:  |   :---:  |   :---:  |
