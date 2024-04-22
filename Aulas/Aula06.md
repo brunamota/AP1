@@ -36,7 +36,9 @@ As expressões lógicas são combinações de valores e operadores lógicos que 
 - Maior que (>), Maior ou igual a (>=), Menor que (<), Menor ou igual a (<=): Comparação numérica.
 - Exemplo de expressão lógica:
 ``` C
-idade > 18 && salario < 1000.
+idade > 18 && salario < 1000
+dia >= 18 || mês == 4
+altura != 1.60
 ```
 ### Estrutura de Decisão:
 
