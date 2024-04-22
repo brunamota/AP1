@@ -1,10 +1,10 @@
 # Aula 4 - Estrutura Sequencial
 
-#### Estrutura Sequencial:
+### Estrutura Sequencial:
 
 A estrutura sequencial é a base de qualquer programa. As instruções são executadas em ordem, de cima para baixo, uma após a outra. É como seguir um conjunto de passos em uma receita, onde cada passo deve ser executado na ordem correta.
 
-#### Exemplos de Instruções:
+### Exemplos de Instruções:
 
 As instruções podem ser comandos simples ou expressões que realizam alguma operação.
 Alguns exemplos comuns de instruções são:
@@ -13,7 +13,7 @@ Alguns exemplos comuns de instruções são:
 - Chamadas de funções.
 - Entrada e saída de dados.
 
-#### Exemplo Prático:
+### Exemplo Prático:
 
 Vamos criar um programa simples que solicita ao usuário dois números e exibe a soma deles.
 - Passo a passo:
@@ -24,7 +24,7 @@ Vamos criar um programa simples que solicita ao usuário dois números e exibe a
   - Calcular a soma dos dois números.
   - Exibir o resultado da soma na tela.
 
-#### Exemplo de Código em C:
+### Exemplo de Código em C:
 ``` C
 #include <stdio.h>
 
@@ -45,5 +45,5 @@ int main() {
 }
 ```
 
-#### Conclusão:
+### Conclusão:
 Nesta aula, exploramos a estrutura sequencial, que consiste em executar instruções em ordem, uma após a outra. Vimos um exemplo prático de um programa simples que solicita dois números e exibe a soma deles. A estrutura sequencial é a base para o desenvolvimento de algoritmos mais complexos. Na próxima aula, vamos explorar a estrutura de decisão. Até lá!
