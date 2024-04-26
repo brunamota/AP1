@@ -5,7 +5,7 @@
 
 ## Horário das Aulas
 
-Teórica - Segunda - 9h30 às 11h10 - Sala 01 CA1
+Teórica - Segunda - 9h30 às 11h10 - LEC 03
 
 Prática A01 - Segunda - 7h30 às 9h10 - LEC 01
 
@@ -13,9 +13,9 @@ Prática A02 - Segunda - 15h30 às 17h10 - LEC 01
 
 ## Monitoria
 
-Toda Quinta - 15h30 às 17h10 - Sala a definir
+Toda Quinta - 15h30 às 17h10 - LEC 01
 
-Toda Sexta - 9h00 às 11h - Sala a definir
+Toda Sexta - 9h00 às 11h - LEC 02
 
 ## Datas Importantes
 
