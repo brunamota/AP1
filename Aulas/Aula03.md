@@ -7,13 +7,6 @@ Os dados primitivos são os tipos básicos de dados disponíveis em uma linguage
 - O tipo "char" é usado para representar caracteres individuais, como 'a', '1' e '!'.
 - O tipo "double" é usado para representar números de ponto flutuante com maior precisão do que o tipo "float".
 
-### Atribuição de Valores:
-
-A atribuição é o processo de armazenar um valor em uma variável. Uma variável é um local na memória que pode armazenar dados. Em C, a atribuição é feita usando o operador de atribuição "=", que atribui o valor à direita para a variável à esquerda.
-Exemplo:
-``` C
-int idade = 25; //atribui o valor 25 à variável idade.
-```
 ### Variáveis Simples:
 
 Uma variável é um nome dado a um local na memória onde podemos armazenar dados. Antes de usar uma variável, é necessário declará-la informando seu tipo e nome.
@@ -21,6 +14,15 @@ Exemplo:
 ``` C
 int quantidade; //declara uma variável chamada quantidade do tipo int.
 ```
+
+### Atribuição de Valores:
+
+A atribuição é o processo de armazenar um valor em uma variável. Uma variável é um local na memória que pode armazenar dados. Em C, a atribuição é feita usando o operador de atribuição "=", que atribui o valor à direita para a variável à esquerda.
+Exemplo:
+``` C
+int idade = 25; //atribui o valor 25 à variável idade.
+```
+
 ### Constantes:
 
 Uma constante é um valor fixo que não pode ser alterado durante a execução do programa. Em C, as constantes são declaradas usando a palavra-chave "const" antes do tipo da constante.
