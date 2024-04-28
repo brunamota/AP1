@@ -28,7 +28,9 @@ int idade = 25; //atribui o valor 25 à variável idade.
 Uma constante é um valor fixo que não pode ser alterado durante a execução do programa. Em C, as constantes são declaradas usando a palavra-chave "const" antes do tipo da constante.
 Exemplo:
 ``` C
+//declarar fora da main
 #define PI 3.14
+//ou declarar dentro da main
 const float PI = 3.14; //declara uma constante chamada PI do tipo float com valor 3.14
 ```
 
