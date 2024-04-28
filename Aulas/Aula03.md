@@ -103,5 +103,3 @@ int main()
 
 }
 ```
-### Conclusão:
-Nesta aula, aprendemos sobre dados primitivos, atribuição, variáveis simples, constantes, entrada de dados com "scanf" e saída de dados com "printf". Esses conceitos são fundamentais para manipular informações em um programa. Pratiquem esses conceitos em exercícios e projetos para fortalecer sua compreensão. Na próxima aula, exploraremos estruturas de controle de fluxo. Até lá!
