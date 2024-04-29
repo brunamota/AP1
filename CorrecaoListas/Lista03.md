@@ -1,6 +1,22 @@
 # Lista 3 - Dados primitivos, atribuição, variáveis, constantes, entrada/saída de dados
 
-### 1- Escreva um programa que solicite ao usuário seu nome e idade, e em seguida exiba essas informações na tela.
+### 1- Escreva um programa que solicite ao usuário sua idade, e em seguida exiba essa informação na tela.
+```C
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int idade;
+
+    printf("Digite sua idade: ");
+    scanf("%i", &idade);
+
+    printf("\nIdade: %i\n", idade);
+
+}
+```
+
 ### 2- Crie um programa que converta uma temperatura em graus Celsius para Fahrenheit. O usuário deve inserir a temperatura em Celsius e o programa deve exibir o resultado em Fahrenheit.
 ### 3- Escreva um programa que calcule e exiba a área de um retângulo. O usuário deve inserir os valores da base e altura.
 ### 4- Crie um programa que calcule o IMC (Índice de Massa Corporal) de uma pessoa. O programa deve solicitar ao usuário o peso e a altura, e em seguida exibir o valor do IMC.
