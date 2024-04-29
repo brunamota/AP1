@@ -1,4 +1,4 @@
-![cabecalhoGit](https://github.com/brunamota/AP1/assets/66503956/367f3ba9-d248-4323-8c9c-413816fe2d37)![cabecalhoGitTrabalhos](https://github.com/brunamota/AP1/assets/66503956/986a1faa-d2d9-435e-a3b2-1614f6f9284c)
+![cabecalhoGit](https://github.com/brunamota/AP1/assets/66503956/367f3ba9-d248-4323-8c9c-413816fe2d37)
 
 
 ### Ciência da Computação - ICET/UFJ
