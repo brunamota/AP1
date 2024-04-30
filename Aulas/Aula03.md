@@ -68,10 +68,7 @@ int main()
     //armazena caracteres.
     char caractere;
 
-    //Atribuição de valores
-
     //Entrada de dados
-
     printf("\nEscreva um numero inteiro: ");
     scanf("%i", &numeroInteiro);
     printf("\nEscreva um numero decimal: ");
