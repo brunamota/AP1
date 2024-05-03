@@ -45,6 +45,3 @@ int main() {
     return 0;
 }
 ```
-
-### Conclusão:
-Nesta aula, exploramos a estrutura sequencial, que consiste em executar instruções em ordem, uma após a outra. Vimos um exemplo prático de um programa simples que solicita dois números e exibe a soma deles. A estrutura sequencial é a base para o desenvolvimento de algoritmos mais complexos. Na próxima aula, vamos explorar a estrutura de decisão. Até lá!
