@@ -34,6 +34,12 @@ Toda Sexta - 9h00 às 11h - LEC 02
 
 ![icon1](https://github.com/brunamota/AP1/assets/66503956/a7527360-5f2a-4363-9db8-c9638f74d7b0) Fundamentos de Códigos - https://www.sololearn.com/pt/learn/courses/coding-foundations
 
+## Bônus
+
+![icon1](https://github.com/brunamota/AP1/assets/66503956/a7527360-5f2a-4363-9db8-c9638f74d7b0) Criar um GitHub para organizar as atividades da disciplina
+
+![icon1](https://github.com/brunamota/AP1/assets/66503956/a7527360-5f2a-4363-9db8-c9638f74d7b0) Maior sequência de dias no Sololearn (comprovada)
+
 ## Documentos da Disciplina
 
 ![icon1](https://github.com/brunamota/AP1/assets/66503956/7de06d90-88b4-4843-b38a-321f0d05819a) [Plano de Ensino](https://github.com/brunamota/AP1/files/14948809/Plano.de.Ensino.AP1.-.01.2024.pdf)
