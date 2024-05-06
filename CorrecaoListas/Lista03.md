@@ -61,6 +61,26 @@ int main()
 
 ### 4- Crie um programa que calcule o IMC (Índice de Massa Corporal) de uma pessoa. O programa deve solicitar ao usuário o peso e a altura, e em seguida exibir o valor do IMC.
 
+``` C
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    float imc, peso, altura;
+
+    printf("Digite o peso: ");
+    scanf("%f", &peso);
+
+    printf("Digite o altura: ");
+    scanf("%f", &altura);
+
+    imc = peso/(altura*altura);
+
+    printf("Area da circunferencia: %f", imc);
+}
+
+```
 
 ### 5- Escreva um programa que solicite ao usuário dois números inteiros e realize as operações de adição, subtração, multiplicação e divisão entre esses números, exibindo os resultados na tela.
 ### 6- Crie um programa que calcule a média aritmética de três notas inseridas pelo usuário. O programa deve exibir a média final.
