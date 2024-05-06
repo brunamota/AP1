@@ -18,6 +18,25 @@ int main()
 ```
 
 ### 2- Crie um programa que converta uma temperatura em graus Celsius para Fahrenheit. O usuário deve inserir a temperatura em Celsius e o programa deve exibir o resultado em Fahrenheit.
+
+```C
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    float celsius, fahrenheit;
+
+    printf("Insira a temperatura em Celsius: ");
+    scanf("%f", &celsius);
+
+    fahrenheit = (celsius*9/5) + 32;
+
+    printf("Fahrenheit: %.2f", fahrenheit);
+
+}
+```
+
 ### 3- Escreva um programa que calcule e exiba a área de um retângulo. O usuário deve inserir os valores da base e altura.
 ### 4- Crie um programa que calcule o IMC (Índice de Massa Corporal) de uma pessoa. O programa deve solicitar ao usuário o peso e a altura, e em seguida exibir o valor do IMC.
 ### 5- Escreva um programa que solicite ao usuário dois números inteiros e realize as operações de adição, subtração, multiplicação e divisão entre esses números, exibindo os resultados na tela.
