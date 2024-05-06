@@ -83,7 +83,62 @@ int main()
 ```
 
 ### 5- Escreva um programa que solicite ao usuário dois números inteiros e realize as operações de adição, subtração, multiplicação e divisão entre esses números, exibindo os resultados na tela.
+
+```C
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int numero1, numero2;
+    int soma, sub, multi;
+    float div;
+
+    printf("Digite um numero: ");
+    scanf("%d", &numero1);
+
+    printf("Digite outro numero: ");
+    scanf("%d", &numero2);
+
+    soma = numero1 + numero2;
+    sub = numero1 - numero2;
+    multi = numero1 * numero2;
+    div = (float) numero1/numero2;
+
+    printf("\nSoma: %d", soma);
+    printf("\nSubtracao: %d", sub);
+    printf("\nMultiplicacao: %d", multi);
+    printf("\nDivisao: %f", div);
+}
+```
+
 ### 6- Crie um programa que calcule a média aritmética de três notas inseridas pelo usuário. O programa deve exibir a média final.
+```C
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int nota1, nota2, nota3;
+    float media;
+
+    printf("Digite a primeira nota: ");
+    scanf("%d", &nota1);
+
+    printf("Digite a segunda nota: ");
+    scanf("%d", &nota2);
+
+    printf("Digite a terceira nota: ");
+    scanf("%d", &nota3);
+
+    media = (float) (nota1+nota2+nota3)/3;
+
+    printf("\nMedia final: %f", media);
+
+}
+
+```
+
 ### 7- Escreva um programa que solicite ao usuário o raio de um círculo e calcule a sua área. O programa deve exibir o resultado na tela. Utilize a biblioteca Math.h
 
 ```C
@@ -107,3 +162,22 @@ int main()
 ```
 
 ### 8- Desenvolva um programa que converta um valor em metros para centímetros e milímetros. O usuário deve inserir o valor em metros, e o programa deve exibir os equivalentes em centímetros e milímetros.
+
+```C
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int metro, centimetro, milimetro;
+
+    printf("Digite um valor em metros: ");
+    scanf("%d", &metro);
+
+    centimetro = metro * 100;
+    milimetro = metro * 1000;
+
+    printf("\n%dm equivale a %dcm", metro, centimetro);
+    printf("\n%dm equivale a %dmm", metro, milimetro);
+}
+```
