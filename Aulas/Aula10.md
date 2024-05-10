@@ -2,15 +2,15 @@
 
 ### Vetores de Caracteres:
 Um vetor de caracteres é uma variável composta unidimensional que armazena uma sequência de caracteres.
-   - Na linguagem C, os vetores de caracteres são declarados especificando o tipo "char" seguido pelo nome do vetor e seu tamanho.
+Na linguagem C, os vetores de caracteres são declarados especificando o tipo "char" seguido pelo nome do vetor e seu tamanho.
    - Exemplo de declaração de um vetor de caracteres:
      ```C
      char nome[20];
      ```
 
 ### Strings:
-   - Strings são sequências de caracteres terminadas por um caractere nulo ('\0').
-   - Na linguagem C, as strings são representadas como vetores de caracteres.
+Strings são sequências de caracteres terminadas por um caractere nulo ('\0').
+Na linguagem C, as strings são representadas como vetores de caracteres.
    - Exemplo de declaração e inicialização de uma string:
      ```C
      char nome[20] = "John Doe";
@@ -40,7 +40,7 @@ Um vetor de caracteres é uma variável composta unidimensional que armazena uma
      ```
 
 ### Funções para Manipulação de Strings:
-   - A biblioteca string.h fornece diversas funções úteis para manipulação de strings.
+A biblioteca string.h fornece diversas funções úteis para manipulação de strings.
    - Exemplo de uso da função strcpy para copiar uma string:
      ```C
      char destino[20];
