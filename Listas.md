@@ -11,7 +11,7 @@
 
 ![iconGitAmarelo](https://github.com/brunamota/AP1/assets/66503956/00a0f0f5-1867-4eeb-a284-aea532c9591b) [Lista 5 - Operadores lógicos e Expressões lógicas](https://forms.gle/uqqhrhLj4ED56Y6E6)
 
-![iconGitAmarelo](https://github.com/brunamota/AP1/assets/66503956/00a0f0f5-1867-4eeb-a284-aea532c9591b) Lista 6 - Estrutura condicional simples e compostas
+![iconGitAmarelo](https://github.com/brunamota/AP1/assets/66503956/00a0f0f5-1867-4eeb-a284-aea532c9591b) [Lista 6 - Estrutura condicional simples e compostas](https://forms.gle/z5XxMDLi1KYPnG4v8)
 
 ![iconGitAmarelo](https://github.com/brunamota/AP1/assets/66503956/00a0f0f5-1867-4eeb-a284-aea532c9591b) Lista 7 - While, Do-While e For
 
