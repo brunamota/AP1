@@ -1,7 +1,7 @@
 # Aula 10: Strings vs. Vetores de Caracteres
 
 ### Vetores de Caracteres:
-   - Um vetor de caracteres é uma variável composta unidimensional que armazena uma sequência de caracteres.
+Um vetor de caracteres é uma variável composta unidimensional que armazena uma sequência de caracteres.
    - Na linguagem C, os vetores de caracteres são declarados especificando o tipo "char" seguido pelo nome do vetor e seu tamanho.
    - Exemplo de declaração de um vetor de caracteres:
      ```C
