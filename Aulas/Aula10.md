@@ -3,18 +3,18 @@
 ### Vetores de Caracteres:
 Um vetor de caracteres é uma variável composta unidimensional que armazena uma sequência de caracteres.
 Na linguagem C, os vetores de caracteres são declarados especificando o tipo "char" seguido pelo nome do vetor e seu tamanho.
-   - Exemplo de declaração de um vetor de caracteres:
-     ```C
-     char nome[20];
-     ```
+- Exemplo de declaração de um vetor de caracteres:
+   ```C
+   char nome[20];
+    ```
 
 ### Strings:
 Strings são sequências de caracteres terminadas por um caractere nulo ('\0').
 Na linguagem C, as strings são representadas como vetores de caracteres.
-   - Exemplo de declaração e inicialização de uma string:
-     ```C
-     char nome[20] = "John Doe";
-     ```
+- Exemplo de declaração e inicialização de uma string:
+   ```C
+   char nome[20] = "John Doe";
+   ```
 
 ### Diferenças entre Vetores de Caracteres e Strings:
    - Caractere Nulo: Uma string é sempre terminada por um caractere nulo ('\0'), enquanto um vetor de caracteres pode ou não ter um caractere nulo no final.
@@ -24,30 +24,30 @@ Na linguagem C, as strings são representadas como vetores de caracteres.
    - Comparação: Strings podem ser comparadas usando operadores de comparação (==, !=, <, >), enquanto os vetores de caracteres não podem ser comparados diretamente.
 
 ### Exemplos de Uso:
-   - Exemplo de uso de um vetor de caracteres:
-     ```C
-     char nome[20];
-     nome[0] = 'J';
-     nome[1] = 'o';
-     nome[2] = 'h';
-     nome[3] = 'n';
-     nome[4] = '\0';
-     ```
+- Exemplo de uso de um vetor de caracteres:
+  ```C
+  char nome[20];
+  nome[0] = 'J';
+  nome[1] = 'o';
+  nome[2] = 'h';
+  nome[3] = 'n';
+  nome[4] = '\0';
+  ```
 
-   - Exemplo de uso de uma string:
-     ```C
-     char nome[20] = "John Doe";
-     ```
+ - Exemplo de uso de uma string:
+   ```C
+   char nome[20] = "John Doe";
+   ```
 
 ### Funções para Manipulação de Strings:
 A biblioteca string.h fornece diversas funções úteis para manipulação de strings.
 ```C
 #include <string.h>
 ```
-   - Exemplo de uso da função strcpy para copiar uma string:
-     ```C
-     char destino[20];
-     char origem[20] = "Hello";
-     strcpy(destino, origem);
-     ```
+- Exemplo de uso da função strcpy para copiar uma string:
+   ```C
+   char destino[20];
+   char origem[20] = "Hello";
+   strcpy(destino, origem);
+   ```
 
