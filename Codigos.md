@@ -6,7 +6,7 @@
 
 ![iconGitRoxo](https://github.com/brunamota/AP1/assets/66503956/03d6aea2-8d2b-4a20-8f14-dc50cef43f2a) [Lista 3 - Dados primitivos, atribuição, variáveis, constantes, entrada/saída de dados](https://github.com/brunamota/AP1/blob/main/CorrecaoListas/Lista03.md)
 
-![iconGitRoxo](https://github.com/brunamota/AP1/assets/66503956/03d6aea2-8d2b-4a20-8f14-dc50cef43f2a) Lista 4 - Estrutura Sequencial
+![iconGitRoxo](https://github.com/brunamota/AP1/assets/66503956/03d6aea2-8d2b-4a20-8f14-dc50cef43f2a) [Lista 4 - Estrutura Sequencial](https://github.com/brunamota/AP1/blob/main/CorrecaoListas/Lista04.md)
 
 ![iconGitRoxo](https://github.com/brunamota/AP1/assets/66503956/03d6aea2-8d2b-4a20-8f14-dc50cef43f2a) Lista 5 - Operadores lógicos e Expressões lógicas
 
