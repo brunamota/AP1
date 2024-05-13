@@ -80,8 +80,7 @@ Sintaxe: expressão ? valor_verdadeiro : valor_falso
 printf((idade >= 18) ? "Você é maior de idade.\n" : "Você é menor de idade.\n");
 ```
 
-
-- Código feita em sala de aula:
+Código feita em sala de aula:
 ``` C
 #include <stdio.h>
 #include <stdlib.h>
