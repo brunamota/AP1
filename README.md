@@ -1,16 +1,15 @@
 ![cabecalhoGit](https://github.com/brunamota/AP1/assets/66503956/367f3ba9-d248-4323-8c9c-413816fe2d37)
 
-
 ### Ciência da Computação - ICET/UFJ
 ### Docente: Bruna Mota Barbosa
 
 ## Horário das Aulas
 
-Teórica - Segunda - 9h30 às 11h10 - LEC 03
+Teórica A01 - Segunda - 7h30 às 9h10 - LEC 01
 
-Prática A01 - Segunda - 7h30 às 9h10 - LEC 01
+Teórica A02 - Segunda - 9h30 às 11h10 - LEC 03
 
-Prática A02 - Segunda - 15h30 às 17h10 - LEC 01
+Prática - Segunda - 15h30 às 17h10 - LEC 01
 
 ## Monitoria
 
@@ -21,6 +20,9 @@ Toda Sexta - 9h00 às 11h - LEC 02
 ## Datas Importantes
 
 ![icon1](https://github.com/brunamota/AP1/assets/66503956/a7527360-5f2a-4363-9db8-c9638f74d7b0) Prova 1 - 27/05/2024
+
+  - Link para entregar a prova:
+  - Prova:
 
 ![icon1](https://github.com/brunamota/AP1/assets/66503956/a7527360-5f2a-4363-9db8-c9638f74d7b0) Prova 2 - 08/07/2024
 
