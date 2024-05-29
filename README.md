@@ -19,10 +19,7 @@ Toda Sexta - 9h00 às 11h - LEC 02
 
 ## Datas Importantes
 
-![icon1](https://github.com/brunamota/AP1/assets/66503956/a7527360-5f2a-4363-9db8-c9638f74d7b0) Prova 1 - 27/05/2024
-
-  - Link para entregar a prova: https://forms.gle/9MFrmnQtMk98oXLk9
-  - Prova: [Prova 01 - Algoritmo e Programação 2024/01](https://github.com/brunamota/AP1/blob/main/Provas/Prova%2001%20-%20Algoritmo%20e%20Programa%C3%A7%C3%A3o%202024_01.pdf)
+![icon1](https://github.com/brunamota/AP1/assets/66503956/a7527360-5f2a-4363-9db8-c9638f74d7b0) [Prova 1 - 27/05/2024](https://github.com/brunamota/AP1/blob/main/Provas/Prova%2001%20-%20Algoritmo%20e%20Programa%C3%A7%C3%A3o%202024_01.pdf)
 
 ![icon1](https://github.com/brunamota/AP1/assets/66503956/a7527360-5f2a-4363-9db8-c9638f74d7b0) Prova 2 - 08/07/2024
 
