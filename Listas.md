@@ -15,7 +15,7 @@
 
 ![iconGitAmarelo](https://github.com/brunamota/AP1/assets/66503956/00a0f0f5-1867-4eeb-a284-aea532c9591b) [Lista 7A - While, Do-While e For](https://forms.gle/oQ5Z44ndgH7s7R6E9)
 
-![iconGitAmarelo](https://github.com/brunamota/AP1/assets/66503956/00a0f0f5-1867-4eeb-a284-aea532c9591b) [Lista 7B - While, Do-While e For](https://forms.gle/oQ5Z44ndgH7s7R6E9)
+![iconGitAmarelo](https://github.com/brunamota/AP1/assets/66503956/00a0f0f5-1867-4eeb-a284-aea532c9591b) [Lista 7B - While, Do-While e For](https://forms.gle/DAhQGfFRVPiMZCoy8)
 
 ![iconGitAmarelo](https://github.com/brunamota/AP1/assets/66503956/00a0f0f5-1867-4eeb-a284-aea532c9591b) Lista 8 - Variáveis Compostas Unidimensionais (Vetores)
 
