@@ -2,7 +2,7 @@
 
 ### Estrutura de Repetição While:
 A estrutura de repetição while é utilizada para executar um bloco de código enquanto uma condição for verdadeira.
-Na linguagem C, a estrutura while é representada pelo "while".
+
 - Sintaxe:
 ```C
 while (condicao) {
@@ -13,7 +13,7 @@ while (condicao) {
 ### Estrutura de Repetição Do-While:
 
 A estrutura de repetição do-while é utilizada para executar um bloco de código pelo menos uma vez e repeti-lo enquanto uma condição for verdadeira.
-Na linguagem C, a estrutura do-while é representada pelo "do" e "while".
+
 - Sintaxe:
 ```C
 do {
@@ -24,7 +24,7 @@ do {
 ### Estrutura de Repetição For:
 
 A estrutura de repetição for é utilizada para executar um bloco de código um número específico de vezes.
-Na linguagem C, a estrutura for é representada pelo "for".
+
 - Sintaxe:
 
 ``` C
