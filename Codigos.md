@@ -10,7 +10,7 @@
 
 ![iconGitRoxo](https://github.com/brunamota/AP1/assets/66503956/03d6aea2-8d2b-4a20-8f14-dc50cef43f2a) [Lista 5 - Operadores lógicos e Expressões lógicas](https://github.com/brunamota/AP1/blob/main/CorrecaoListas/Lista05.md)
 
-![iconGitRoxo](https://github.com/brunamota/AP1/assets/66503956/03d6aea2-8d2b-4a20-8f14-dc50cef43f2a) Lista 6 - Estrutura condicional simples
+![iconGitRoxo](https://github.com/brunamota/AP1/assets/66503956/03d6aea2-8d2b-4a20-8f14-dc50cef43f2a) [Lista 6 - Estrutura condicional simples](https://github.com/brunamota/AP1/blob/main/CorrecaoListas/Lista06.md)
 
 ![iconGitRoxo](https://github.com/brunamota/AP1/assets/66503956/03d6aea2-8d2b-4a20-8f14-dc50cef43f2a) Lista 7 - Estrutura condicional compostas
 
