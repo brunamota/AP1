@@ -1,3 +1,5 @@
+# Lista 5 - Operadores lógicos e Expressões lógicas
+
 ### 1- Escreva um programa que verifica se um número inteiro é par. O programa deve exibir a mensagem "O número é par" se o número for par, e "O número é ímpar" caso contrário.
 ```c
 #include <stdio.h>
