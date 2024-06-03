@@ -1,4 +1,4 @@
-# 1- Escreva um programa que verifica se um número inteiro é par. O programa deve exibir a mensagem "O número é par" se o número for par, e "O número é ímpar" caso contrário.
+### 1- Escreva um programa que verifica se um número inteiro é par. O programa deve exibir a mensagem "O número é par" se o número for par, e "O número é ímpar" caso contrário.
 ```c
 #include <stdio.h>
 
@@ -17,7 +17,7 @@ int main() {
     return 0;
 }
 ```
-# 2- Escreva um programa que verifica se um aluno foi aprovado em uma disciplina. O aluno é considerado aprovado se sua média final for maior ou igual a 7 e se ele não tiver faltado mais de 25% das aulas. O programa deve exibir a mensagem "Aluno aprovado" se o aluno satisfazer as duas condições, e "Aluno reprovado" caso contrário.
+### 2- Escreva um programa que verifica se um aluno foi aprovado em uma disciplina. O aluno é considerado aprovado se sua média final for maior ou igual a 7 e se ele não tiver faltado mais de 25% das aulas. O programa deve exibir a mensagem "Aluno aprovado" se o aluno satisfazer as duas condições, e "Aluno reprovado" caso contrário.
 ```c
 #include <stdio.h>
 
@@ -43,7 +43,7 @@ int main() {
     return 0;
 }
 ```
-# 3- Escreva um programa que verifica se um aluno foi aprovado em uma disciplina. O aluno é considerado aprovado se sua média final for maior ou igual a 7 e se ele não tiver faltado mais de 25% das aulas. O programa deve exibir a mensagem "Aluno aprovado" se o aluno satisfazer as duas condições, e "Aluno reprovado" caso contrário.
+### 3- Escreva um programa que verifica se um aluno foi aprovado em uma disciplina. O aluno é considerado aprovado se sua média final for maior ou igual a 7 e se ele não tiver faltado mais de 25% das aulas. O programa deve exibir a mensagem "Aluno aprovado" se o aluno satisfazer as duas condições, e "Aluno reprovado" caso contrário.
 ```C
 #include <stdio.h>
 
@@ -62,3 +62,40 @@ int main() {
     return 0;
 }
 ```
+### 4- Escreva um programa que verifica se uma pessoa pode dirigir um carro. Para poder dirigir, a pessoa deve ter idade igual ou superior a 18 anos e possuir uma carteira de motorista válida. O programa deve exibir a mensagem "Pode dirigir" se a pessoa satisfizer as duas condições, e "Não pode dirigir" caso contrário.
+```C
+#include <stdio.h>
+
+int main() {
+    int idade;
+    int tem_carteira;
+
+    printf("Digite a idade da pessoa: ");
+    scanf("%d", &idade);
+
+    printf("A pessoa possui carteira de motorista válida? (1 - Sim, 0 - Não) ");
+    scanf("%d", &tem_carteira);
+
+    if (idade >= 18 && tem_carteira == 1) {
+        printf("Pode dirigir.\n");
+    } else {
+        printf("Não pode dirigir.\n");
+    }
+
+    return 0;
+}
+```
+
+### 5- Utilize o calculo do IMC feito na lista 03, mas agora verifique se a pessoa está no peso ideal.
+
+- Parâmetros:
+
+    - IMC < 18,5 Classificação: MAGREZA
+    
+    - 18,5 <= IMC <=  24,9  Classificação:   NORMAL
+    
+    - 25,0 <= IMC <=  29,9  Classificação:   SOBREPESO 
+    
+    - 30,0  <= IMC <=  39,9   Classificação:  OBESIDADE
+    
+    - IMC >= 40,0  Classificação:  OBESIDADE GRAVE
