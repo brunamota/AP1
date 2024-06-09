@@ -8,7 +8,7 @@
 
     c) Escreva um programa que leia um número inteiro do usuário e imprima se o número é primo ou não. Use o laço while.
 
-### Para o menu você pode optar por usar char ou int.
+Para o menu você pode optar por usar char ou int.
 
 ```C
 #include <stdio.h>
