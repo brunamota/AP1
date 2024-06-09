@@ -1,6 +1,6 @@
 # Bônus - While, Do-While e For
 
-1- Faça um programa usando o do-while + switch-case para criar um menu com as questões da lista:
+1. Faça um programa usando o do-while + switch-case para criar um menu com as questões da lista:
 
     a) Escreva um programa que leia a idade de um grupo de pessoas e calcule a média de idade. O programa deve parar de ler as idades quando for digitada uma idade negativa. Use o laço while.
 
