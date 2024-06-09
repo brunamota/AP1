@@ -7,8 +7,8 @@
     b) Escreva um programa que leia um número inteiro do usuário e imprima a sequência de Fibonacci até esse número. Use o laço while.
 
     c) Escreva um programa que leia um número inteiro do usuário e imprima se o número é primo ou não. Use o laço while.
-
-Para o menu você pode optar por usar char ou int.
+   
+Obs.: Para o menu você pode optar por usar char ou int.
 
 ```C
 #include <stdio.h>
