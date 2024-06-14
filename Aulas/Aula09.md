@@ -41,7 +41,7 @@ char origem[20] = "Hello";
 strcpy(destino, origem);
 ```
 
-### Código feito em sala
+### Código feito em sala:
 
 ```C
 int main()
