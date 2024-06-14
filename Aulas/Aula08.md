@@ -63,3 +63,42 @@ for (int i = 0; i < 5; i++) {
     printf("%d\n", i);
 }
 ```
+
+### Criação de Menu usando Switch-Case + Do-While:
+```c
+#include <stdio.h>
+
+int main()
+{
+    int op;
+
+    do{
+        printf("\nLista bônus\n");
+        printf("1- Exemplo 1\n");
+        printf("2- Exemplo 2\n");
+        printf("3- Exemplo 3\n");
+        printf("Digite zero para sair\n");
+        printf("Escolha uma opção: ");
+        scanf("%d", &op);
+
+        switch(op){
+        case 1:
+            //escreva o código da questão 1
+            break;
+        case 2:
+            //escreva o código da questão 2
+            break;
+        case 3:
+            //escreva o código da questão 3
+            break;
+        default:
+            if(op == 0){
+                printf("Fim da lista\n");
+            }else{
+                printf("Opcao errada! Digite uma opção valida.");
+            }
+        }
+    }while(op!=0);
+
+}
+```
