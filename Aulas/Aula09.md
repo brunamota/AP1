@@ -1,4 +1,4 @@
-# Aula 9: Variáveis Compostas Unidimensionais
+# Aula 9: Variáveis Compostas Unidimensionais (vetores)
 
 ### Arrays:
 
