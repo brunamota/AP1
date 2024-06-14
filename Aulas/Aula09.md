@@ -40,3 +40,35 @@ char destino[20];
 char origem[20] = "Hello";
 strcpy(destino, origem);
 ```
+
+### Código feito em sala
+
+```C
+int main()
+{
+    //criação de vetores
+    //vetor sem valores pré-definidos
+    float nota[3], soma = 0;
+
+    //insere 3 valores no veto nota
+    for(int i = 0; i < 3; i++){
+        printf("digite 3 notas do aluno x: ");
+        scanf("%f", &nota[i]);
+    }
+    
+    //mostra as notas em cada um das posições
+    printf("Notas do aluno x:\n");
+    for(int i = 0; i < 3; i++){
+        printf("Nota %d: %.2f\n", i+1, nota[i]);
+    }
+
+    //soma os valores das notas inseridas no vetor
+    for(int i = 0; i < 3; i++){
+        soma = soma + nota[i];
+    }
+
+    float media = soma/3;
+    
+    printf("Media do aluno x: %.2f", media);
+}
+```
