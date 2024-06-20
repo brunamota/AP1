@@ -1,4 +1,4 @@
-# Lista 6 - Estrutura condicional simples e compostas
+# Lista 7 - While, Do-While e For
 
 1. Faça um programa usando o do-while + switch-case para criar um menu com as questões da lista:
 
