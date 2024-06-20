@@ -1,7 +1,8 @@
 # Lista 6 - Estrutura condicional simples e compostas
 
 1. Faça um programa usando o do-while + switch-case para criar um menu com as questões da lista:
-    a) Escreva um programa que leia 5 números inteiros e imprima apenas os números pares. Use o laço for.
+
+   a) Escreva um programa que leia 5 números inteiros e imprima apenas os números pares. Use o laço for.
 
   b) Escreva um programa que leia 5 números inteiros e imprima o maior e o menor número digitado. Use o laço for.
 
