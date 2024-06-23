@@ -10,15 +10,13 @@
 
 ![iconGitRoxo](https://github.com/brunamota/AP1/assets/66503956/03d6aea2-8d2b-4a20-8f14-dc50cef43f2a) [Lista 5 - Operadores lógicos e Expressões lógicas](https://github.com/brunamota/AP1/blob/main/CorrecaoListas/Lista05.md)
 
-![iconGitRoxo](https://github.com/brunamota/AP1/assets/66503956/03d6aea2-8d2b-4a20-8f14-dc50cef43f2a) [Lista 6 - Estrutura condicional simples](https://github.com/brunamota/AP1/blob/main/CorrecaoListas/Lista06.md)
+![iconGitRoxo](https://github.com/brunamota/AP1/assets/66503956/03d6aea2-8d2b-4a20-8f14-dc50cef43f2a) [Lista 6 - Estrutura condicional simples e composta](https://github.com/brunamota/AP1/blob/main/CorrecaoListas/Lista06.md)
 
-![iconGitRoxo](https://github.com/brunamota/AP1/assets/66503956/03d6aea2-8d2b-4a20-8f14-dc50cef43f2a) [Lista 7 - Estrutura condicional compostas](https://github.com/brunamota/AP1/blob/main/CorrecaoListas/Lista07.md)
+![iconGitRoxo](https://github.com/brunamota/AP1/assets/66503956/03d6aea2-8d2b-4a20-8f14-dc50cef43f2a) [Lista 7 - While, Do-While e For](https://github.com/brunamota/AP1/blob/main/CorrecaoListas/Lista07.md)
 
-![iconGitRoxo](https://github.com/brunamota/AP1/assets/66503956/03d6aea2-8d2b-4a20-8f14-dc50cef43f2a) Lista 8 - While, Do-While e For
+![iconGitRoxo](https://github.com/brunamota/AP1/assets/66503956/03d6aea2-8d2b-4a20-8f14-dc50cef43f2a) [Lista 8 - Variáveis Compostas Unidimensionais](https://github.com/brunamota/AP1/blob/main/CorrecaoListas/Lista08.md)
 
-![iconGitRoxo](https://github.com/brunamota/AP1/assets/66503956/03d6aea2-8d2b-4a20-8f14-dc50cef43f2a) Lista 9 - Variáveis Compostas Unidimensionais
+![iconGitRoxo](https://github.com/brunamota/AP1/assets/66503956/03d6aea2-8d2b-4a20-8f14-dc50cef43f2a) [Lista 8 - Strings x Vetores de caracteres](https://github.com/brunamota/AP1/blob/main/CorrecaoListas/Lista09.md)
 
-![iconGitRoxo](https://github.com/brunamota/AP1/assets/66503956/03d6aea2-8d2b-4a20-8f14-dc50cef43f2a) Lista 10 - Strings x Vetores de caracteres
-
-![iconGitRoxo](https://github.com/brunamota/AP1/assets/66503956/03d6aea2-8d2b-4a20-8f14-dc50cef43f2a) Lista 11 - Variáveis Compostas Unidimensionais
+![iconGitRoxo](https://github.com/brunamota/AP1/assets/66503956/03d6aea2-8d2b-4a20-8f14-dc50cef43f2a) Lista 10 - Variáveis Compostas Unidimensionais
 
