@@ -46,7 +46,7 @@ Na linguagem C, as strings são representadas como vetores de caracteres.
    ```
 
 ### Funções para Manipulação de Strings:
-A biblioteca string.h fornece diversas funções úteis para manipulação de strings.
+A biblioteca [string.h](https://www.programiz.com/c-programming/library-function/string.h) fornece diversas funções úteis para manipulação de strings.
 ```C
 #include <string.h>
 ```
@@ -58,7 +58,7 @@ A biblioteca string.h fornece diversas funções úteis para manipulação de st
    ```
 
 ### Funções para Manipulação de Caracteres:
-A biblioteca ctype.h fornece um conjunto de funções para classificar (e transformar) caracteres individuais.
+A biblioteca [ctype.h](https://www.programiz.com/c-programming/library-function/ctype.h) fornece um conjunto de funções para classificar (e transformar) caracteres individuais.
 ```C
 #include <ctype.h>
 ```
