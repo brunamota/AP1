@@ -36,7 +36,13 @@ Na linguagem C, as strings são representadas como vetores de caracteres.
 
  - Exemplo de uso de uma string:
    ```C
-   char nome[20] = "John Doe";
+   char nome[20] = "Lucas";
+   ```
+
+ - Exemplo de uso de uma string:
+   ```C
+   char nome[20];
+   gets(nome);
    ```
 
 ### Funções para Manipulação de Strings:
@@ -49,5 +55,16 @@ A biblioteca string.h fornece diversas funções úteis para manipulação de st
    char destino[20];
    char origem[20] = "Hello";
    strcpy(destino, origem);
+   ```
+
+### Funções para Manipulação de Caracteres:
+A biblioteca ctype.h fornece um conjunto de funções para classificar (e transformar) caracteres individuais.
+```C
+#include <ctype.h>
+```
+- Exemplo de uso da função strcpy para copiar uma string:
+   ```C
+   char caractere = 'H';
+   isupper(caractere);
    ```
 
