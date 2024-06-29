@@ -49,7 +49,7 @@ int main() {
 
    a) Inverter a ordem dos caracteres da string.
 
-   b) Verificar se a string é um palíndromo (uma palavra, frase, número ou outra sequência de caracteres que lê da mesma forma tanto da esquerda para a direita quanto da direita para a esquerda).
+   b) Verificar se a string é um palíndromo (uma palavra, número ou outra sequência de caracteres que lê da mesma forma tanto da esquerda para a direita quanto da direita para a esquerda).
    
 ``` C
 #include <stdio.h>
