@@ -57,27 +57,24 @@ int main() {
 #include <ctype.h>
 
 int main() {
+
     char palavra[100], palindromo[100];
     int i, igual = 0;
 
     printf("Digite uma palavra: ");
-    gets(palavra);
+    scanf("%s", palavra);
 
     int tamanho = strlen(palavra);
 
-    for(i = 0; i < tamanho;i++){
-        palindromo[i] = palavra[tamanho - 1];
-        tamanho--;
+    for(i = 0; i < tamanho; i++){
+        palindromo[i] = palavra[tamanho - 1 - i];
     }
-
     palindromo[i] = '\0';
-
-    tamanho = strlen(palavra);
 
     printf("Original: %s\nInverso: %s\n", palavra, palindromo);
 
-    for (i = 0; i< tamanho; i++){
-        if(palavra[i] == palindromo[i]){
+    for (i = 0; i < tamanho; i++){
+        if(tolower(palavra[i]) == tolower(palindromo[i])){
             igual++;
         }
     }
