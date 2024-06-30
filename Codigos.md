@@ -16,7 +16,7 @@
 
 ![iconGitRoxo](https://github.com/brunamota/AP1/assets/66503956/03d6aea2-8d2b-4a20-8f14-dc50cef43f2a) [Lista 8 - Variáveis Compostas Unidimensionais](https://github.com/brunamota/AP1/blob/main/CorrecaoListas/Lista08.md)
 
-![iconGitRoxo](https://github.com/brunamota/AP1/assets/66503956/03d6aea2-8d2b-4a20-8f14-dc50cef43f2a) [Lista 8 - Strings x Vetores de caracteres](https://github.com/brunamota/AP1/blob/main/CorrecaoListas/Lista09.md)
+![iconGitRoxo](https://github.com/brunamota/AP1/assets/66503956/03d6aea2-8d2b-4a20-8f14-dc50cef43f2a) [Lista 9 - Strings x Vetores de caracteres](https://github.com/brunamota/AP1/blob/main/CorrecaoListas/Lista09.md)
 
-![iconGitRoxo](https://github.com/brunamota/AP1/assets/66503956/03d6aea2-8d2b-4a20-8f14-dc50cef43f2a) Lista 10 - Variáveis Compostas Unidimensionais
+![iconGitRoxo](https://github.com/brunamota/AP1/assets/66503956/03d6aea2-8d2b-4a20-8f14-dc50cef43f2a) [Lista 10 - Variáveis Compostas Multidimensionais](https://github.com/brunamota/AP1/blob/main/CorrecaoListas/Lista10.md)
 
