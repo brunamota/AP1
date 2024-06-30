@@ -1,4 +1,4 @@
-# Aula 11: Variáveis Compostas Unidimensionais (Matrizes)
+# Aula 11: Variáveis Compostas Homogêneas Multidimensionais (Matrizes)
 
 ### Matrizes:
 Matrizes são variáveis compostas unidimensionais que podem armazenar um conjunto de elementos do mesmo tipo em duas dimensões.
