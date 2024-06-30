@@ -19,7 +19,7 @@
 
 ![iconGitAmarelo](https://github.com/brunamota/AP1/assets/66503956/00a0f0f5-1867-4eeb-a284-aea532c9591b) [Lista 9 - Strings x Vetores de caracteres](https://forms.gle/3VfovkzMAx4pbeEW8)
 
-![iconGitAmarelo](https://github.com/brunamota/AP1/assets/66503956/00a0f0f5-1867-4eeb-a284-aea532c9591b) Lista 10 - Variáveis Compostas Unidimensionais (Matrizes)
+![iconGitAmarelo](https://github.com/brunamota/AP1/assets/66503956/00a0f0f5-1867-4eeb-a284-aea532c9591b) [Lista 10 - Variáveis Compostas Unidimensionais (Matriz)](https://forms.gle/CQ37JjozoaWoTHCq6)
 
 ![iconGitAmarelo](https://github.com/brunamota/AP1/assets/66503956/00a0f0f5-1867-4eeb-a284-aea532c9591b) [Bônus - While, Do-While e For](https://forms.gle/oQ5Z44ndgH7s7R6E9)
 
