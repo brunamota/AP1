@@ -1,11 +1,15 @@
 # Lista 9 - Strings e Vetores de Caracteres
 
 1. Implementar um programa que leia uma frase do usuário e execute as seguintes tarefas:
-   a) teste
+   
     a) Contar o número de palavras na frase.
+   
     b) Contar o número de caracteres na frase.
+   
     c) Exibir a frase com todas as palavras em maiúsculas.
+   
     d) Exibir a frase com todas as palavras em minúsculas.
+   
 ```C
 #include <stdio.h>
 #include <string.h>
@@ -54,7 +58,9 @@ int main() {
 }
 ```
 2. Implementar um programa que leia uma string do usuário e execute as seguintes tarefas:
+   
     a) Inverter a ordem dos caracteres da string.
+   
     b) Verificar se a string é um palíndromo (uma palavra, número ou outra sequência de caracteres que lê da mesma forma tanto da esquerda para a direita quanto da direita para a esquerda).
 
 ```C
@@ -92,7 +98,9 @@ int main() {
 }
 ```
 3. Implementar um programa que leia uma string do usuário e execute as seguintes tarefas:
+   
     a) Remover os espaços da string.
+   
     b) Substituir todas as ocorrências de uma determinada letra por outra '*'.
 
 ```C
@@ -138,7 +146,9 @@ int main() {
 ```
 
 4. Implementar um programa que leia uma string do usuário e execute as seguintes tarefas:
+   
     a) Remover todas as vogais da string.
+   
     b) Contar o número de vogais na string.
 ``` C
 #include <stdio.h>
