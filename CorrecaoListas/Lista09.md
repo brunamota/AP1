@@ -1,15 +1,95 @@
 # Lista 9 - Strings e Vetores de Caracteres
 
-1. Implementar um programa que leia uma frase do usuário e execute as seguintes tarefas:
+1. Escreva um programa que leia uma matriz 4x4 e imprima o maior elemento da matriz.
+```C
+#include <stdio.h>
 
-   a) Contar o número de palavras na frase.
+int main() {
+    int matriz[4][4];
+    int maior = 0;
 
-   b) Contar o número de caracteres na frase.
+    // Leitura da matriz
+    printf("Digite os 16 elementos da matriz (4x4):\n");
+    for (int i = 0; i < 4; i++) {
+        for (int j = 0; j < 4; j++) {
+            scanf("%d", &matriz[i][j]);
+            if (matriz[i][j] > maior) {
+                maior = matriz[i][j];
+            }
+        }
+    }
 
-   c) Exibir a frase com todas as palavras em maiúsculas.
+    printf("O maior elemento da matriz é: %d\n", maior);
+}
+```
+2. Escreva um programa que leia uma matriz 3x3 e um número, e verifique se esse número está presente na matriz.
+```C
+#include <stdio.h>
 
-   d) Exibir a frase com todas as palavras em minúsculas.
+int main() {
+    int matriz[3][3];
+    int numero;
+    int encontrado = 0;
 
+    // Leitura da matriz
+    printf("Digite os 9 elementos da matriz (3x3):\n");
+    for (int i = 0; i < 3; i++) {
+        for (int j = 0; j < 3; j++) {
+            scanf("%d", &matriz[i][j]);
+        }
+    }
+
+    // Leitura do número a ser procurado
+    printf("Digite o número a ser procurado: ");
+    scanf("%d", &numero);
+
+    // Verificação da presença do número na matriz
+    for (int i = 0; i < 3; i++) {
+        for (int j = 0; j < 3; j++) {
+            if (matriz[i][j] == numero) {
+                encontrado = 1;
+                printf("O número %d está presente na matriz.\n", numero);
+                break;
+            }
+        }
+        if (encontrado) {
+            break;
+        }
+    }
+
+    if (!encontrado) {
+        printf("O número %d não está presente na matriz.\n", numero);
+    }
+}
+```
+3. Escreva um programa que leia uma matriz 3x3 em que cada linha da matriz leia e armazena um nome.
+
+```C
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+    char nomes[3][50];
+    int i, j;
+
+    // Leitura dos nomes
+    printf("Digite 3 nomes:\n");
+    for (i = 0; i < 3; i++) {
+        printf("Nome %d: ", i + 1);
+        setbuf(stdin, NULL);
+        gets(nomes[i]);
+    }
+
+    // Exibição da matriz de nomes
+    printf("\nMatriz de nomes:\n");
+    for (int i = 0; i < 3; i++) {
+        printf("Nome %d: %s\n", i+1, nomes[i]);
+        printf("\n");
+    }
+}
+```
+
+4. Escreva um programa que leia uma matriz 3x4 em que cada linha seja um aluno e cada coluna uma nota, no fim faça a média de cada aluno.
 ``` C
 #include <stdio.h>
 #include <string.h>
@@ -45,136 +125,29 @@ int main() {
 
 ```
 
-2. Implementar um programa que leia uma string do usuário e execute as seguintes tarefas:
-
-   a) Inverter a ordem dos caracteres da string.
-
-   b) Verificar se a string é um palíndromo (uma palavra, número ou outra sequência de caracteres que lê da mesma forma tanto da esquerda para a direita quanto da direita para a esquerda).
-   
-``` C
-#include <stdio.h>
-#include <string.h>
-#include <ctype.h>
-
-int main() {
-
-    char palavra[100], palindromo[100];
-    int i, igual = 0;
-
-    printf("Digite uma palavra: ");
-    scanf("%s", palavra);
-
-    int tamanho = strlen(palavra);
-
-    for(i = 0; i < tamanho; i++){
-        palindromo[i] = palavra[tamanho - 1 - i];
-    }
-    palindromo[i] = '\0';
-
-    printf("Original: %s\nInverso: %s\n", palavra, palindromo);
-
-    for (i = 0; i < tamanho; i++){
-        if(tolower(palavra[i]) == tolower(palindromo[i])){
-            igual++;
-        }
-    }
-    if(tamanho == igual){
-        printf("%s eh palindroma\n", palavra);
-    }else{
-        printf("%s nao eh palindroma\n", palavra);
-    }
-}
-```
-
-3. Implementar um programa que leia uma string do usuário e execute as seguintes tarefas:
-
-   a) Remover os espaços da string. 
-
-   b) Substituir todas as ocorrências de uma determinada letra por outra '*'.
-
+5. bruna
 ```C
 #include <stdio.h>
-#include <string.h>
-#include <ctype.h>
-
 
 int main() {
-    char palavra[100];
-    char caractere, separador;
-    int i,j;
+    int matriz[3][3];
+    int maior = 0;
 
-    // Ler a string do usuário
-    printf("Digite uma string: ");
-    gets(palavra);
-
-    // Remover os espaços da string
-    j = 0;
-    for (i = 0; palavra[i]; i++) {
-        if (!isspace(palavra[i])) {
-            palavra[j++] = palavra[i];
-
-        }
-    }
-    palavra[j] = '\0';
-
-    printf("String sem espaço: %s\n", palavra);
-
-    printf("Digite uma string: ");
-    gets(palavra);
-
-    // Substituir todas as ocorrências de uma determinada letra por '*'
-    printf("Qual letra deseja substituir por '*'? ");
-    scanf(" %c", &caractere);
-    for (i = 0; palavra[i]; i++) {
-        if (tolower(palavra[i]) == tolower(caractere)) {
-            palavra[i] = '*';
+    // Leitura da matriz
+    printf("Digite os 9 elementos da matriz (3x3):\n");
+    for (int i = 0; i < 3; i++) {
+        for (int j = 0; j < 3; j++) {
+            scanf("%d", &matriz[i][j]);
         }
     }
 
-    printf("String modificada: %s\n", palavra);
-
-}
-
-```
-
-4. Implementar um programa que leia uma string do usuário e execute as seguintes tarefas:
-
-   a) Remover todas as vogais da string.
-
-   b) Contar o número de vogais na string.
-
-   c) Substituir todas as vogais por um caractere especificado pelo usuário.
-
-```C
-#include <stdio.h>
-#include <string.h>
-#include <ctype.h>
-
-
-int main() {
-    char palavra[100];
-    int i, j, numeroVogais = 0;
-
-    // Ler a string do usuário
-    printf("Digite uma string: ");
-    gets(palavra);
-
-    // Remover todas as vogais da string
-    j = 0;
-    for (i = 0; palavra[i]; i++) {
-        if (tolower(palavra[i]) != 'a' && tolower(palavra[i]) != 'e' &&
-            tolower(palavra[i]) != 'i' && tolower(palavra[i]) != 'o' &&
-            tolower(palavra[i]) != 'u') {
-            palavra[j++] = palavra[i];
-        } else {
-            numeroVogais++;
+    // Printar matriz
+    printf("Matriz organizada:\n");
+    for (int i = 0; i < 3; i++) {
+        for (int j = 0; j < 3; j++) {
+            printf("[%d] ", matriz[i][j]);
         }
+        printf("\n");
     }
-    palavra[j] = '\0';
-
-    printf("String modificada: %s\n", palavra);
-    printf("Numero de vogais: %d\n", numeroVogais);
-
-    return 0;
 }
 ```
