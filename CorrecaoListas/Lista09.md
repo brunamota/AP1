@@ -125,7 +125,8 @@ int main() {
 
 ```
 
-5. bruna
+5. Escreva um programa que leia uma matriz 3x3 e imprima os valores de forma organizada.
+
 ```C
 #include <stdio.h>
 
