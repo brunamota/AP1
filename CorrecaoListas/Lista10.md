@@ -93,16 +93,13 @@ int main() {
 ``` C
 #include <stdio.h>
 
-#define ROWS 3
-#define COLS 4
-
 int main() {
-    float matriz[ROWS][COLS];
-    float media[ROWS];
+    float matriz[3][4];
+    float media[3];
 
     // Leitura da matriz de notas
-    printf("Digite as 12 notas (3 alunos, 4 notas cada):\n");
-    for (int i = 0; i < ROWS; i++) {
+    printf("Digite as 12 notas (4 notas para cada aluno):\n");
+    for (int i = 0; i < 3; i++) {
         printf("Aluno %d:\n", i + 1);
         for (int j = 0; j < COLS; j++) {
             scanf("%f", &matriz[i][j]);
@@ -110,21 +107,19 @@ int main() {
     }
 
     // Cálculo da média de cada aluno
-    for (int i = 0; i < ROWS; i++) {
+    for (int i = 0; i < 3; i++) {
         float soma = 0.0;
-        for (int j = 0; j < COLS; j++) {
+        for (int j = 0; j < 4; j++) {
             soma += matriz[i][j];
         }
-        media[i] = soma / COLS;
+        media[i] = soma / 4;
     }
 
     // Exibição das médias
     printf("\nMédias dos alunos:\n");
-    for (int i = 0; i < ROWS; i++) {
+    for (int i = 0; i < 3; i++) {
         printf("Aluno %d: %.2f\n", i + 1, media[i]);
     }
-
-    return 0;
 }
 ```
 
