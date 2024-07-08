@@ -103,7 +103,7 @@ int main() {
     return 0;
 }
 ```
-5. Escreva um programa em C que leia 12 números inteiros e os armazene em um vetor. Crie um novo vetor com o dobro de cada elemento do primeiro vetor e imprima-o.
+4. Escreva um programa em C que leia 12 números inteiros e os armazene em um vetor. Crie um novo vetor com o dobro de cada elemento do primeiro vetor e imprima-o.
    
 ```C
 #include <stdio.h>
@@ -134,7 +134,7 @@ int main() {
 }
 
 ```
-7. Escreva um programa em C que leia 10 números inteiros e os armazene em um vetor. Em seguida, imprima os elementos do vetor na ordem inversa.
+5. Escreva um programa em C que leia 10 números inteiros e os armazene em um vetor. Em seguida, imprima os elementos do vetor na ordem inversa.
    
 ```C
 #include <stdio.h>
