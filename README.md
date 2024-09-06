@@ -23,8 +23,6 @@ Toda Sexta - 9h00 às 11h - LEC 02
 
 ![icon1](https://github.com/brunamota/AP1/assets/66503956/a7527360-5f2a-4363-9db8-c9638f74d7b0) [Prova 2 - 08/07/2024](https://github.com/brunamota/AP1/blob/main/Provas/Prova%2002%20-%20Algoritmo%20e%20Programa%C3%A7%C3%A3o%202024_01.pdf)
 
-  - Enviar a prova: https://forms.gle/5kSazjtKVhNGsxCh6
-
 ## Ferramenta utilizada na disciplina
 
 ![icon1](https://github.com/brunamota/AP1/assets/66503956/a7527360-5f2a-4363-9db8-c9638f74d7b0) https://www.codeblocks.org/downloads/
